@@ -31,10 +31,10 @@ body {
   height: 260px;
   display: flex;
   align-items: center;
-  margin-left: 2px;
-  margin-right: 2px;
 }
 .gameIcon {
   width: 250px;
   height: 250px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
